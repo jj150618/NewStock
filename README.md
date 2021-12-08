@@ -6,4 +6,4 @@
 
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
-_각 코딩에 대한 설명은 블로그 [https://blog.naver.com/gimhun0]를 참고하세요._
+_각 코딩에 대한 설명은 블로그 https://blog.naver.com/gimhun0 를 참고하세요._
